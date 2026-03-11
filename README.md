@@ -40,3 +40,9 @@ Data was processed using SQL queries and cleaned using Power Query before buildi
 - Sales trends vary across months and regions
 - Some products contribute significantly to total profit
 - Data visualization helps identify opportunities for business growth
+
+- ## Dashboard Preview
+
+![Dashboard Overview](images/Dashboard overview.png)
+![category Analysis](images/category_analysis.png)
+![Sales Analysis](images/sales_analysis.png)
