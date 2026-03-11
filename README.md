@@ -41,3 +41,5 @@ Data was processed using SQL queries and cleaned using Power Query before buildi
 - Some products contribute significantly to total profit
 - Data visualization helps identify opportunities for business growth
 
+## Conclusion
+This dashboard helps businesses monitor sales performance, identify top products, and analyze regional trends. The insights generated can support better strategic and operational decisions.
